@@ -1,3 +1,7 @@
+Integrantes:
+- Yohan Garzón González
+- Bairon Esteven Sanchez Rodriguez
+
 Vuelve ejecutable el .c con el comando:
 
 sudo gcc -o prioridad prioridad.c
